@@ -97,7 +97,7 @@ await context.sendSticker({
 
 For more information, please refer to LINE's official doc, [Sticker Message](https://developers.line.biz/en/reference/messaging-api/#sticker-message).
 
-> **Note:** You can only send LINE's original Stickers. You can find the sticker's package ID and sticker ID in the [sticker list](https://developers.line.biz/media/messaging-api/sticker_list.pdf).
+> **Note:** You can only send LINE's original Stickers. You can find the sticker's package ID and sticker ID in the [sticker list](https://devdocs.line.me/files/sticker_list.pdf).
 
 ### Image
 
